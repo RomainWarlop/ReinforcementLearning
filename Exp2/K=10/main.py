@@ -4,21 +4,21 @@
 # magnitude and intercept
 #==============================================================================
 
-from UCRL import UCRL, linUCRL
-from UCB import linUCB
+from ReinforcementLearning.UCRL import UCRL, linUCRL
+from ReinforcementLearning.UCB import linUCB
 import numpy as np
 import pandas as pd
 from copy import deepcopy
 from itertools import product as itp
 import ast
 from random import shuffle
-import matplotlib
-matplotlib.use('Agg')
+#import matplotlib
+#matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 colors = ['blue','green','hotpink','darkcyan','goldenrod','grey','brown','black','purple','yellow','orange']
 
-path = '/home/romain/PhD/linucrl/Exp2/K=10/'
+path = '/home/romain/PhD/ReinforcementLearning/ReinforcementLearning/Exp2/K=10/'
 
 # params
 m = 1
