@@ -1,0 +1,4005 @@
+('Space state size:', 100000)
+
+ Start linUCRL
+('update policy, round=', 1)
+('iteration number:', 1)
+('update policy, round=', 2)
+('iteration number:', 2)
+('update policy, round=', 3)
+('iteration number:', 3)
+('update policy, round=', 4)
+('iteration number:', 4)
+('update policy, round=', 5)
+('iteration number:', 5)
+('update policy, round=', 6)
+('iteration number:', 6)
+('update policy, round=', 7)
+('iteration number:', 7)
+('update policy, round=', 8)
+('iteration number:', 8)
+('update policy, round=', 9)
+('iteration number:', 9)
+('update policy, round=', 10)
+('iteration number:', 10)
+('update policy, round=', 11)
+('iteration number:', 11)
+('update policy, round=', 12)
+('iteration number:', 12)
+('update policy, round=', 13)
+('iteration number:', 13)
+('update policy, round=', 14)
+('iteration number:', 14)
+('update policy, round=', 15)
+('iteration number:', 15)
+('update policy, round=', 16)
+('iteration number:', 16)
+('update policy, round=', 17)
+('iteration number:', 17)
+('update policy, round=', 18)
+('iteration number:', 18)
+('update policy, round=', 19)
+('iteration number:', 19)
+('update policy, round=', 20)
+('iteration number:', 20)
+('update policy, round=', 21)
+('iteration number:', 21)
+('update policy, round=', 22)
+('iteration number:', 22)
+('update policy, round=', 23)
+('iteration number:', 23)
+('update policy, round=', 24)
+('iteration number:', 24)
+('update policy, round=', 25)
+('iteration number:', 25)
+('update policy, round=', 26)
+('iteration number:', 26)
+('update policy, round=', 27)
+('iteration number:', 27)
+('update policy, round=', 28)
+('iteration number:', 28)
+('update policy, round=', 29)
+('iteration number:', 29)
+('update policy, round=', 30)
+('iteration number:', 30)
+('update policy, round=', 31)
+('iteration number:', 31)
+('update policy, round=', 32)
+('iteration number:', 32)
+not update
+('iteration number:', 33)
+('update policy, round=', 33)
+('iteration number:', 34)
+not update
+('iteration number:', 35)
+('update policy, round=', 34)
+('iteration number:', 36)
+not update
+('iteration number:', 37)
+not update
+('iteration number:', 38)
+not update
+('iteration number:', 39)
+not update
+('iteration number:', 40)
+not update
+('iteration number:', 41)
+not update
+('iteration number:', 42)
+not update
+('iteration number:', 43)
+not update
+('iteration number:', 44)
+not update
+('iteration number:', 45)
+('update policy, round=', 35)
+('iteration number:', 46)
+not update
+('iteration number:', 47)
+not update
+('iteration number:', 48)
+not update
+('iteration number:', 49)
+('update policy, round=', 36)
+('iteration number:', 50)
+('update policy, round=', 37)
+('iteration number:', 51)
+not update
+('iteration number:', 52)
+not update
+('iteration number:', 53)
+('update policy, round=', 38)
+('iteration number:', 54)
+not update
+('iteration number:', 55)
+not update
+('iteration number:', 56)
+not update
+('iteration number:', 57)
+not update
+('iteration number:', 58)
+not update
+('iteration number:', 59)
+not update
+('iteration number:', 60)
+not update
+('iteration number:', 61)
+not update
+('iteration number:', 62)
+not update
+('iteration number:', 63)
+not update
+('iteration number:', 64)
+not update
+('iteration number:', 65)
+('update policy, round=', 39)
+('iteration number:', 66)
+not update
+('iteration number:', 67)
+not update
+('iteration number:', 68)
+not update
+('iteration number:', 69)
+not update
+('iteration number:', 70)
+not update
+('iteration number:', 71)
+not update
+('iteration number:', 72)
+not update
+('iteration number:', 73)
+not update
+('iteration number:', 74)
+not update
+('iteration number:', 75)
+not update
+('iteration number:', 76)
+not update
+('iteration number:', 77)
+not update
+('iteration number:', 78)
+not update
+('iteration number:', 79)
+not update
+('iteration number:', 80)
+not update
+('iteration number:', 81)
+not update
+('iteration number:', 82)
+not update
+('iteration number:', 83)
+not update
+('iteration number:', 84)
+not update
+('iteration number:', 85)
+not update
+('iteration number:', 86)
+not update
+('iteration number:', 87)
+not update
+('iteration number:', 88)
+not update
+('iteration number:', 89)
+not update
+('iteration number:', 90)
+not update
+('iteration number:', 91)
+not update
+('iteration number:', 92)
+not update
+('iteration number:', 93)
+not update
+('iteration number:', 94)
+not update
+('iteration number:', 95)
+not update
+('iteration number:', 96)
+not update
+('iteration number:', 97)
+('update policy, round=', 40)
+('iteration number:', 98)
+not update
+('iteration number:', 99)
+not update
+('iteration number:', 100)
+not update
+('iteration number:', 101)
+not update
+('iteration number:', 102)
+not update
+('iteration number:', 103)
+not update
+('iteration number:', 104)
+not update
+('iteration number:', 105)
+not update
+('iteration number:', 106)
+not update
+('iteration number:', 107)
+not update
+('iteration number:', 108)
+not update
+('iteration number:', 109)
+not update
+('iteration number:', 110)
+not update
+('iteration number:', 111)
+not update
+('iteration number:', 112)
+not update
+('iteration number:', 113)
+not update
+('iteration number:', 114)
+not update
+('iteration number:', 115)
+not update
+('iteration number:', 116)
+not update
+('iteration number:', 117)
+not update
+('iteration number:', 118)
+not update
+('iteration number:', 119)
+not update
+('iteration number:', 120)
+not update
+('iteration number:', 121)
+not update
+('iteration number:', 122)
+('update policy, round=', 41)
+('iteration number:', 123)
+not update
+('iteration number:', 124)
+not update
+('iteration number:', 125)
+not update
+('iteration number:', 126)
+not update
+('iteration number:', 127)
+not update
+('iteration number:', 128)
+not update
+('iteration number:', 129)
+not update
+('iteration number:', 130)
+not update
+('iteration number:', 131)
+not update
+('iteration number:', 132)
+not update
+('iteration number:', 133)
+not update
+('iteration number:', 134)
+not update
+('iteration number:', 135)
+not update
+('iteration number:', 136)
+not update
+('iteration number:', 137)
+not update
+('iteration number:', 138)
+not update
+('iteration number:', 139)
+not update
+('iteration number:', 140)
+not update
+('iteration number:', 141)
+not update
+('iteration number:', 142)
+not update
+('iteration number:', 143)
+not update
+('iteration number:', 144)
+not update
+('iteration number:', 145)
+not update
+('iteration number:', 146)
+not update
+('iteration number:', 147)
+not update
+('iteration number:', 148)
+not update
+('iteration number:', 149)
+not update
+('iteration number:', 150)
+not update
+('iteration number:', 151)
+not update
+('iteration number:', 152)
+not update
+('iteration number:', 153)
+not update
+('iteration number:', 154)
+not update
+('iteration number:', 155)
+not update
+('iteration number:', 156)
+not update
+('iteration number:', 157)
+not update
+('iteration number:', 158)
+not update
+('iteration number:', 159)
+not update
+('iteration number:', 160)
+not update
+('iteration number:', 161)
+not update
+('iteration number:', 162)
+not update
+('iteration number:', 163)
+not update
+('iteration number:', 164)
+not update
+('iteration number:', 165)
+not update
+('iteration number:', 166)
+not update
+('iteration number:', 167)
+not update
+('iteration number:', 168)
+not update
+('iteration number:', 169)
+not update
+('iteration number:', 170)
+not update
+('iteration number:', 171)
+not update
+('iteration number:', 172)
+not update
+('iteration number:', 173)
+not update
+('iteration number:', 174)
+not update
+('iteration number:', 175)
+not update
+('iteration number:', 176)
+not update
+('iteration number:', 177)
+not update
+('iteration number:', 178)
+not update
+('iteration number:', 179)
+not update
+('iteration number:', 180)
+not update
+('iteration number:', 181)
+not update
+('iteration number:', 182)
+not update
+('iteration number:', 183)
+not update
+('iteration number:', 184)
+not update
+('iteration number:', 185)
+not update
+('iteration number:', 186)
+not update
+('iteration number:', 187)
+not update
+('iteration number:', 188)
+not update
+('iteration number:', 189)
+not update
+('iteration number:', 190)
+('update policy, round=', 42)
+('iteration number:', 191)
+not update
+('iteration number:', 192)
+not update
+('iteration number:', 193)
+not update
+('iteration number:', 194)
+not update
+('iteration number:', 195)
+not update
+('iteration number:', 196)
+not update
+('iteration number:', 197)
+not update
+('iteration number:', 198)
+not update
+('iteration number:', 199)
+not update
+('iteration number:', 200)
+not update
+('iteration number:', 201)
+not update
+('iteration number:', 202)
+not update
+('iteration number:', 203)
+not update
+('iteration number:', 204)
+not update
+('iteration number:', 205)
+not update
+('iteration number:', 206)
+not update
+('iteration number:', 207)
+not update
+('iteration number:', 208)
+not update
+('iteration number:', 209)
+not update
+('iteration number:', 210)
+not update
+('iteration number:', 211)
+not update
+('iteration number:', 212)
+not update
+('iteration number:', 213)
+not update
+('iteration number:', 214)
+not update
+('iteration number:', 215)
+not update
+('iteration number:', 216)
+not update
+('iteration number:', 217)
+not update
+('iteration number:', 218)
+not update
+('iteration number:', 219)
+not update
+('iteration number:', 220)
+not update
+('iteration number:', 221)
+not update
+('iteration number:', 222)
+not update
+('iteration number:', 223)
+not update
+('iteration number:', 224)
+not update
+('iteration number:', 225)
+not update
+('iteration number:', 226)
+not update
+('iteration number:', 227)
+not update
+('iteration number:', 228)
+not update
+('iteration number:', 229)
+not update
+('iteration number:', 230)
+not update
+('iteration number:', 231)
+not update
+('iteration number:', 232)
+not update
+('iteration number:', 233)
+not update
+('iteration number:', 234)
+not update
+('iteration number:', 235)
+not update
+('iteration number:', 236)
+not update
+('iteration number:', 237)
+not update
+('iteration number:', 238)
+not update
+('iteration number:', 239)
+not update
+('iteration number:', 240)
+not update
+('iteration number:', 241)
+not update
+('iteration number:', 242)
+not update
+('iteration number:', 243)
+not update
+('iteration number:', 244)
+not update
+('iteration number:', 245)
+not update
+('iteration number:', 246)
+not update
+('iteration number:', 247)
+not update
+('iteration number:', 248)
+not update
+('iteration number:', 249)
+not update
+('iteration number:', 250)
+not update
+('iteration number:', 251)
+not update
+('iteration number:', 252)
+not update
+('iteration number:', 253)
+not update
+('iteration number:', 254)
+not update
+('iteration number:', 255)
+not update
+('iteration number:', 256)
+not update
+('iteration number:', 257)
+not update
+('iteration number:', 258)
+not update
+('iteration number:', 259)
+not update
+('iteration number:', 260)
+not update
+('iteration number:', 261)
+not update
+('iteration number:', 262)
+not update
+('iteration number:', 263)
+not update
+('iteration number:', 264)
+not update
+('iteration number:', 265)
+not update
+('iteration number:', 266)
+not update
+('iteration number:', 267)
+not update
+('iteration number:', 268)
+not update
+('iteration number:', 269)
+not update
+('iteration number:', 270)
+not update
+('iteration number:', 271)
+not update
+('iteration number:', 272)
+not update
+('iteration number:', 273)
+not update
+('iteration number:', 274)
+not update
+('iteration number:', 275)
+not update
+('iteration number:', 276)
+not update
+('iteration number:', 277)
+not update
+('iteration number:', 278)
+not update
+('iteration number:', 279)
+not update
+('iteration number:', 280)
+not update
+('iteration number:', 281)
+not update
+('iteration number:', 282)
+not update
+('iteration number:', 283)
+('update policy, round=', 43)
+('iteration number:', 284)
+not update
+('iteration number:', 285)
+not update
+('iteration number:', 286)
+not update
+('iteration number:', 287)
+not update
+('iteration number:', 288)
+not update
+('iteration number:', 289)
+not update
+('iteration number:', 290)
+not update
+('iteration number:', 291)
+not update
+('iteration number:', 292)
+not update
+('iteration number:', 293)
+not update
+('iteration number:', 294)
+not update
+('iteration number:', 295)
+not update
+('iteration number:', 296)
+not update
+('iteration number:', 297)
+not update
+('iteration number:', 298)
+not update
+('iteration number:', 299)
+not update
+('iteration number:', 300)
+not update
+('iteration number:', 301)
+not update
+('iteration number:', 302)
+not update
+('iteration number:', 303)
+not update
+('iteration number:', 304)
+not update
+('iteration number:', 305)
+not update
+('iteration number:', 306)
+not update
+('iteration number:', 307)
+not update
+('iteration number:', 308)
+not update
+('iteration number:', 309)
+not update
+('iteration number:', 310)
+not update
+('iteration number:', 311)
+not update
+('iteration number:', 312)
+not update
+('iteration number:', 313)
+not update
+('iteration number:', 314)
+not update
+('iteration number:', 315)
+not update
+('iteration number:', 316)
+not update
+('iteration number:', 317)
+not update
+('iteration number:', 318)
+not update
+('iteration number:', 319)
+not update
+('iteration number:', 320)
+not update
+('iteration number:', 321)
+not update
+('iteration number:', 322)
+not update
+('iteration number:', 323)
+not update
+('iteration number:', 324)
+not update
+('iteration number:', 325)
+not update
+('iteration number:', 326)
+not update
+('iteration number:', 327)
+not update
+('iteration number:', 328)
+not update
+('iteration number:', 329)
+not update
+('iteration number:', 330)
+not update
+('iteration number:', 331)
+not update
+('iteration number:', 332)
+not update
+('iteration number:', 333)
+not update
+('iteration number:', 334)
+not update
+('iteration number:', 335)
+not update
+('iteration number:', 336)
+not update
+('iteration number:', 337)
+not update
+('iteration number:', 338)
+not update
+('iteration number:', 339)
+not update
+('iteration number:', 340)
+not update
+('iteration number:', 341)
+not update
+('iteration number:', 342)
+not update
+('iteration number:', 343)
+not update
+('iteration number:', 344)
+not update
+('iteration number:', 345)
+not update
+('iteration number:', 346)
+not update
+('iteration number:', 347)
+not update
+('iteration number:', 348)
+not update
+('iteration number:', 349)
+not update
+('iteration number:', 350)
+not update
+('iteration number:', 351)
+not update
+('iteration number:', 352)
+not update
+('iteration number:', 353)
+not update
+('iteration number:', 354)
+not update
+('iteration number:', 355)
+not update
+('iteration number:', 356)
+not update
+('iteration number:', 357)
+not update
+('iteration number:', 358)
+not update
+('iteration number:', 359)
+not update
+('iteration number:', 360)
+not update
+('iteration number:', 361)
+not update
+('iteration number:', 362)
+not update
+('iteration number:', 363)
+not update
+('iteration number:', 364)
+not update
+('iteration number:', 365)
+not update
+('iteration number:', 366)
+not update
+('iteration number:', 367)
+not update
+('iteration number:', 368)
+not update
+('iteration number:', 369)
+not update
+('iteration number:', 370)
+not update
+('iteration number:', 371)
+not update
+('iteration number:', 372)
+not update
+('iteration number:', 373)
+not update
+('iteration number:', 374)
+not update
+('iteration number:', 375)
+not update
+('iteration number:', 376)
+not update
+('iteration number:', 377)
+not update
+('iteration number:', 378)
+not update
+('iteration number:', 379)
+not update
+('iteration number:', 380)
+not update
+('iteration number:', 381)
+not update
+('iteration number:', 382)
+not update
+('iteration number:', 383)
+not update
+('iteration number:', 384)
+not update
+('iteration number:', 385)
+not update
+('iteration number:', 386)
+not update
+('iteration number:', 387)
+not update
+('iteration number:', 388)
+not update
+('iteration number:', 389)
+not update
+('iteration number:', 390)
+not update
+('iteration number:', 391)
+not update
+('iteration number:', 392)
+not update
+('iteration number:', 393)
+not update
+('iteration number:', 394)
+not update
+('iteration number:', 395)
+not update
+('iteration number:', 396)
+not update
+('iteration number:', 397)
+not update
+('iteration number:', 398)
+not update
+('iteration number:', 399)
+not update
+('iteration number:', 400)
+not update
+('iteration number:', 401)
+not update
+('iteration number:', 402)
+not update
+('iteration number:', 403)
+not update
+('iteration number:', 404)
+not update
+('iteration number:', 405)
+not update
+('iteration number:', 406)
+not update
+('iteration number:', 407)
+not update
+('iteration number:', 408)
+not update
+('iteration number:', 409)
+not update
+('iteration number:', 410)
+not update
+('iteration number:', 411)
+not update
+('iteration number:', 412)
+not update
+('iteration number:', 413)
+not update
+('iteration number:', 414)
+not update
+('iteration number:', 415)
+not update
+('iteration number:', 416)
+not update
+('iteration number:', 417)
+not update
+('iteration number:', 418)
+not update
+('iteration number:', 419)
+not update
+('iteration number:', 420)
+not update
+('iteration number:', 421)
+not update
+('iteration number:', 422)
+not update
+('iteration number:', 423)
+not update
+('iteration number:', 424)
+not update
+('iteration number:', 425)
+not update
+('iteration number:', 426)
+not update
+('iteration number:', 427)
+not update
+('iteration number:', 428)
+not update
+('iteration number:', 429)
+not update
+('iteration number:', 430)
+not update
+('iteration number:', 431)
+not update
+('iteration number:', 432)
+not update
+('iteration number:', 433)
+not update
+('iteration number:', 434)
+not update
+('iteration number:', 435)
+not update
+('iteration number:', 436)
+not update
+('iteration number:', 437)
+not update
+('iteration number:', 438)
+not update
+('iteration number:', 439)
+not update
+('iteration number:', 440)
+not update
+('iteration number:', 441)
+not update
+('iteration number:', 442)
+not update
+('iteration number:', 443)
+not update
+('iteration number:', 444)
+not update
+('iteration number:', 445)
+not update
+('iteration number:', 446)
+not update
+('iteration number:', 447)
+not update
+('iteration number:', 448)
+not update
+('iteration number:', 449)
+not update
+('iteration number:', 450)
+not update
+('iteration number:', 451)
+not update
+('iteration number:', 452)
+not update
+('iteration number:', 453)
+not update
+('iteration number:', 454)
+not update
+('iteration number:', 455)
+not update
+('iteration number:', 456)
+('update policy, round=', 44)
+('iteration number:', 457)
+not update
+('iteration number:', 458)
+not update
+('iteration number:', 459)
+not update
+('iteration number:', 460)
+not update
+('iteration number:', 461)
+not update
+('iteration number:', 462)
+not update
+('iteration number:', 463)
+not update
+('iteration number:', 464)
+not update
+('iteration number:', 465)
+not update
+('iteration number:', 466)
+not update
+('iteration number:', 467)
+not update
+('iteration number:', 468)
+not update
+('iteration number:', 469)
+not update
+('iteration number:', 470)
+not update
+('iteration number:', 471)
+not update
+('iteration number:', 472)
+not update
+('iteration number:', 473)
+not update
+('iteration number:', 474)
+not update
+('iteration number:', 475)
+not update
+('iteration number:', 476)
+not update
+('iteration number:', 477)
+not update
+('iteration number:', 478)
+not update
+('iteration number:', 479)
+not update
+('iteration number:', 480)
+not update
+('iteration number:', 481)
+not update
+('iteration number:', 482)
+not update
+('iteration number:', 483)
+not update
+('iteration number:', 484)
+not update
+('iteration number:', 485)
+not update
+('iteration number:', 486)
+not update
+('iteration number:', 487)
+not update
+('iteration number:', 488)
+not update
+('iteration number:', 489)
+not update
+('iteration number:', 490)
+not update
+('iteration number:', 491)
+not update
+('iteration number:', 492)
+not update
+('iteration number:', 493)
+not update
+('iteration number:', 494)
+not update
+('iteration number:', 495)
+not update
+('iteration number:', 496)
+not update
+('iteration number:', 497)
+not update
+('iteration number:', 498)
+not update
+('iteration number:', 499)
+not update
+('iteration number:', 500)
+not update
+('iteration number:', 501)
+not update
+('iteration number:', 502)
+not update
+('iteration number:', 503)
+not update
+('iteration number:', 504)
+not update
+('iteration number:', 505)
+not update
+('iteration number:', 506)
+not update
+('iteration number:', 507)
+not update
+('iteration number:', 508)
+not update
+('iteration number:', 509)
+not update
+('iteration number:', 510)
+not update
+('iteration number:', 511)
+not update
+('iteration number:', 512)
+not update
+('iteration number:', 513)
+not update
+('iteration number:', 514)
+not update
+('iteration number:', 515)
+not update
+('iteration number:', 516)
+not update
+('iteration number:', 517)
+not update
+('iteration number:', 518)
+not update
+('iteration number:', 519)
+not update
+('iteration number:', 520)
+not update
+('iteration number:', 521)
+not update
+('iteration number:', 522)
+not update
+('iteration number:', 523)
+not update
+('iteration number:', 524)
+not update
+('iteration number:', 525)
+not update
+('iteration number:', 526)
+not update
+('iteration number:', 527)
+not update
+('iteration number:', 528)
+not update
+('iteration number:', 529)
+not update
+('iteration number:', 530)
+not update
+('iteration number:', 531)
+not update
+('iteration number:', 532)
+not update
+('iteration number:', 533)
+not update
+('iteration number:', 534)
+not update
+('iteration number:', 535)
+not update
+('iteration number:', 536)
+not update
+('iteration number:', 537)
+not update
+('iteration number:', 538)
+not update
+('iteration number:', 539)
+not update
+('iteration number:', 540)
+not update
+('iteration number:', 541)
+not update
+('iteration number:', 542)
+not update
+('iteration number:', 543)
+not update
+('iteration number:', 544)
+not update
+('iteration number:', 545)
+not update
+('iteration number:', 546)
+not update
+('iteration number:', 547)
+not update
+('iteration number:', 548)
+not update
+('iteration number:', 549)
+not update
+('iteration number:', 550)
+not update
+('iteration number:', 551)
+not update
+('iteration number:', 552)
+not update
+('iteration number:', 553)
+not update
+('iteration number:', 554)
+not update
+('iteration number:', 555)
+not update
+('iteration number:', 556)
+not update
+('iteration number:', 557)
+not update
+('iteration number:', 558)
+not update
+('iteration number:', 559)
+not update
+('iteration number:', 560)
+not update
+('iteration number:', 561)
+not update
+('iteration number:', 562)
+not update
+('iteration number:', 563)
+not update
+('iteration number:', 564)
+not update
+('iteration number:', 565)
+not update
+('iteration number:', 566)
+not update
+('iteration number:', 567)
+not update
+('iteration number:', 568)
+not update
+('iteration number:', 569)
+not update
+('iteration number:', 570)
+not update
+('iteration number:', 571)
+not update
+('iteration number:', 572)
+not update
+('iteration number:', 573)
+not update
+('iteration number:', 574)
+not update
+('iteration number:', 575)
+not update
+('iteration number:', 576)
+not update
+('iteration number:', 577)
+not update
+('iteration number:', 578)
+not update
+('iteration number:', 579)
+not update
+('iteration number:', 580)
+not update
+('iteration number:', 581)
+not update
+('iteration number:', 582)
+not update
+('iteration number:', 583)
+not update
+('iteration number:', 584)
+not update
+('iteration number:', 585)
+not update
+('iteration number:', 586)
+not update
+('iteration number:', 587)
+not update
+('iteration number:', 588)
+not update
+('iteration number:', 589)
+not update
+('iteration number:', 590)
+not update
+('iteration number:', 591)
+not update
+('iteration number:', 592)
+not update
+('iteration number:', 593)
+not update
+('iteration number:', 594)
+not update
+('iteration number:', 595)
+not update
+('iteration number:', 596)
+not update
+('iteration number:', 597)
+not update
+('iteration number:', 598)
+not update
+('iteration number:', 599)
+not update
+('iteration number:', 600)
+not update
+('iteration number:', 601)
+not update
+('iteration number:', 602)
+not update
+('iteration number:', 603)
+not update
+('iteration number:', 604)
+not update
+('iteration number:', 605)
+not update
+('iteration number:', 606)
+not update
+('iteration number:', 607)
+not update
+('iteration number:', 608)
+not update
+('iteration number:', 609)
+not update
+('iteration number:', 610)
+not update
+('iteration number:', 611)
+not update
+('iteration number:', 612)
+not update
+('iteration number:', 613)
+not update
+('iteration number:', 614)
+not update
+('iteration number:', 615)
+not update
+('iteration number:', 616)
+not update
+('iteration number:', 617)
+not update
+('iteration number:', 618)
+not update
+('iteration number:', 619)
+not update
+('iteration number:', 620)
+not update
+('iteration number:', 621)
+not update
+('iteration number:', 622)
+not update
+('iteration number:', 623)
+not update
+('iteration number:', 624)
+not update
+('iteration number:', 625)
+not update
+('iteration number:', 626)
+not update
+('iteration number:', 627)
+not update
+('iteration number:', 628)
+not update
+('iteration number:', 629)
+not update
+('iteration number:', 630)
+not update
+('iteration number:', 631)
+not update
+('iteration number:', 632)
+not update
+('iteration number:', 633)
+not update
+('iteration number:', 634)
+not update
+('iteration number:', 635)
+not update
+('iteration number:', 636)
+not update
+('iteration number:', 637)
+not update
+('iteration number:', 638)
+not update
+('iteration number:', 639)
+not update
+('iteration number:', 640)
+not update
+('iteration number:', 641)
+not update
+('iteration number:', 642)
+not update
+('iteration number:', 643)
+not update
+('iteration number:', 644)
+not update
+('iteration number:', 645)
+not update
+('iteration number:', 646)
+not update
+('iteration number:', 647)
+not update
+('iteration number:', 648)
+not update
+('iteration number:', 649)
+not update
+('iteration number:', 650)
+not update
+('iteration number:', 651)
+not update
+('iteration number:', 652)
+not update
+('iteration number:', 653)
+not update
+('iteration number:', 654)
+not update
+('iteration number:', 655)
+not update
+('iteration number:', 656)
+not update
+('iteration number:', 657)
+not update
+('iteration number:', 658)
+not update
+('iteration number:', 659)
+not update
+('iteration number:', 660)
+not update
+('iteration number:', 661)
+not update
+('iteration number:', 662)
+not update
+('iteration number:', 663)
+not update
+('iteration number:', 664)
+not update
+('iteration number:', 665)
+not update
+('iteration number:', 666)
+not update
+('iteration number:', 667)
+not update
+('iteration number:', 668)
+not update
+('iteration number:', 669)
+not update
+('iteration number:', 670)
+not update
+('iteration number:', 671)
+not update
+('iteration number:', 672)
+not update
+('iteration number:', 673)
+not update
+('iteration number:', 674)
+not update
+('iteration number:', 675)
+not update
+('iteration number:', 676)
+not update
+('iteration number:', 677)
+not update
+('iteration number:', 678)
+not update
+('iteration number:', 679)
+not update
+('iteration number:', 680)
+not update
+('iteration number:', 681)
+not update
+('iteration number:', 682)
+not update
+('iteration number:', 683)
+not update
+('iteration number:', 684)
+not update
+('iteration number:', 685)
+not update
+('iteration number:', 686)
+not update
+('iteration number:', 687)
+not update
+('iteration number:', 688)
+not update
+('iteration number:', 689)
+not update
+('iteration number:', 690)
+not update
+('iteration number:', 691)
+not update
+('iteration number:', 692)
+not update
+('iteration number:', 693)
+not update
+('iteration number:', 694)
+not update
+('iteration number:', 695)
+not update
+('iteration number:', 696)
+not update
+('iteration number:', 697)
+not update
+('iteration number:', 698)
+not update
+('iteration number:', 699)
+not update
+('iteration number:', 700)
+not update
+('iteration number:', 701)
+not update
+('iteration number:', 702)
+not update
+('iteration number:', 703)
+not update
+('iteration number:', 704)
+not update
+('iteration number:', 705)
+not update
+('iteration number:', 706)
+not update
+('iteration number:', 707)
+not update
+('iteration number:', 708)
+not update
+('iteration number:', 709)
+not update
+('iteration number:', 710)
+not update
+('iteration number:', 711)
+not update
+('iteration number:', 712)
+not update
+('iteration number:', 713)
+not update
+('iteration number:', 714)
+not update
+('iteration number:', 715)
+not update
+('iteration number:', 716)
+not update
+('iteration number:', 717)
+not update
+('iteration number:', 718)
+not update
+('iteration number:', 719)
+not update
+('iteration number:', 720)
+not update
+('iteration number:', 721)
+not update
+('iteration number:', 722)
+not update
+('iteration number:', 723)
+not update
+('iteration number:', 724)
+not update
+('iteration number:', 725)
+not update
+('iteration number:', 726)
+('update policy, round=', 45)
+('iteration number:', 727)
+not update
+('iteration number:', 728)
+not update
+('iteration number:', 729)
+not update
+('iteration number:', 730)
+not update
+('iteration number:', 731)
+not update
+('iteration number:', 732)
+not update
+('iteration number:', 733)
+not update
+('iteration number:', 734)
+not update
+('iteration number:', 735)
+not update
+('iteration number:', 736)
+not update
+('iteration number:', 737)
+not update
+('iteration number:', 738)
+not update
+('iteration number:', 739)
+not update
+('iteration number:', 740)
+not update
+('iteration number:', 741)
+not update
+('iteration number:', 742)
+not update
+('iteration number:', 743)
+not update
+('iteration number:', 744)
+not update
+('iteration number:', 745)
+not update
+('iteration number:', 746)
+not update
+('iteration number:', 747)
+not update
+('iteration number:', 748)
+not update
+('iteration number:', 749)
+not update
+('iteration number:', 750)
+not update
+('iteration number:', 751)
+not update
+('iteration number:', 752)
+not update
+('iteration number:', 753)
+not update
+('iteration number:', 754)
+not update
+('iteration number:', 755)
+not update
+('iteration number:', 756)
+not update
+('iteration number:', 757)
+not update
+('iteration number:', 758)
+not update
+('iteration number:', 759)
+not update
+('iteration number:', 760)
+not update
+('iteration number:', 761)
+not update
+('iteration number:', 762)
+not update
+('iteration number:', 763)
+not update
+('iteration number:', 764)
+not update
+('iteration number:', 765)
+not update
+('iteration number:', 766)
+not update
+('iteration number:', 767)
+not update
+('iteration number:', 768)
+not update
+('iteration number:', 769)
+not update
+('iteration number:', 770)
+not update
+('iteration number:', 771)
+not update
+('iteration number:', 772)
+not update
+('iteration number:', 773)
+not update
+('iteration number:', 774)
+not update
+('iteration number:', 775)
+not update
+('iteration number:', 776)
+not update
+('iteration number:', 777)
+not update
+('iteration number:', 778)
+not update
+('iteration number:', 779)
+not update
+('iteration number:', 780)
+not update
+('iteration number:', 781)
+not update
+('iteration number:', 782)
+not update
+('iteration number:', 783)
+not update
+('iteration number:', 784)
+not update
+('iteration number:', 785)
+not update
+('iteration number:', 786)
+not update
+('iteration number:', 787)
+not update
+('iteration number:', 788)
+not update
+('iteration number:', 789)
+not update
+('iteration number:', 790)
+not update
+('iteration number:', 791)
+not update
+('iteration number:', 792)
+not update
+('iteration number:', 793)
+not update
+('iteration number:', 794)
+not update
+('iteration number:', 795)
+not update
+('iteration number:', 796)
+not update
+('iteration number:', 797)
+not update
+('iteration number:', 798)
+not update
+('iteration number:', 799)
+not update
+('iteration number:', 800)
+not update
+('iteration number:', 801)
+not update
+('iteration number:', 802)
+not update
+('iteration number:', 803)
+not update
+('iteration number:', 804)
+not update
+('iteration number:', 805)
+not update
+('iteration number:', 806)
+not update
+('iteration number:', 807)
+not update
+('iteration number:', 808)
+not update
+('iteration number:', 809)
+not update
+('iteration number:', 810)
+not update
+('iteration number:', 811)
+not update
+('iteration number:', 812)
+not update
+('iteration number:', 813)
+not update
+('iteration number:', 814)
+not update
+('iteration number:', 815)
+not update
+('iteration number:', 816)
+not update
+('iteration number:', 817)
+not update
+('iteration number:', 818)
+not update
+('iteration number:', 819)
+not update
+('iteration number:', 820)
+not update
+('iteration number:', 821)
+not update
+('iteration number:', 822)
+not update
+('iteration number:', 823)
+not update
+('iteration number:', 824)
+not update
+('iteration number:', 825)
+not update
+('iteration number:', 826)
+not update
+('iteration number:', 827)
+not update
+('iteration number:', 828)
+not update
+('iteration number:', 829)
+not update
+('iteration number:', 830)
+not update
+('iteration number:', 831)
+not update
+('iteration number:', 832)
+not update
+('iteration number:', 833)
+not update
+('iteration number:', 834)
+not update
+('iteration number:', 835)
+not update
+('iteration number:', 836)
+not update
+('iteration number:', 837)
+not update
+('iteration number:', 838)
+not update
+('iteration number:', 839)
+not update
+('iteration number:', 840)
+not update
+('iteration number:', 841)
+not update
+('iteration number:', 842)
+not update
+('iteration number:', 843)
+not update
+('iteration number:', 844)
+not update
+('iteration number:', 845)
+not update
+('iteration number:', 846)
+not update
+('iteration number:', 847)
+not update
+('iteration number:', 848)
+not update
+('iteration number:', 849)
+not update
+('iteration number:', 850)
+not update
+('iteration number:', 851)
+not update
+('iteration number:', 852)
+not update
+('iteration number:', 853)
+not update
+('iteration number:', 854)
+not update
+('iteration number:', 855)
+not update
+('iteration number:', 856)
+not update
+('iteration number:', 857)
+not update
+('iteration number:', 858)
+not update
+('iteration number:', 859)
+not update
+('iteration number:', 860)
+not update
+('iteration number:', 861)
+not update
+('iteration number:', 862)
+not update
+('iteration number:', 863)
+not update
+('iteration number:', 864)
+not update
+('iteration number:', 865)
+not update
+('iteration number:', 866)
+not update
+('iteration number:', 867)
+not update
+('iteration number:', 868)
+not update
+('iteration number:', 869)
+not update
+('iteration number:', 870)
+not update
+('iteration number:', 871)
+not update
+('iteration number:', 872)
+not update
+('iteration number:', 873)
+not update
+('iteration number:', 874)
+not update
+('iteration number:', 875)
+not update
+('iteration number:', 876)
+not update
+('iteration number:', 877)
+not update
+('iteration number:', 878)
+not update
+('iteration number:', 879)
+not update
+('iteration number:', 880)
+not update
+('iteration number:', 881)
+not update
+('iteration number:', 882)
+not update
+('iteration number:', 883)
+not update
+('iteration number:', 884)
+not update
+('iteration number:', 885)
+not update
+('iteration number:', 886)
+not update
+('iteration number:', 887)
+not update
+('iteration number:', 888)
+not update
+('iteration number:', 889)
+not update
+('iteration number:', 890)
+not update
+('iteration number:', 891)
+not update
+('iteration number:', 892)
+not update
+('iteration number:', 893)
+not update
+('iteration number:', 894)
+not update
+('iteration number:', 895)
+not update
+('iteration number:', 896)
+not update
+('iteration number:', 897)
+not update
+('iteration number:', 898)
+not update
+('iteration number:', 899)
+not update
+('iteration number:', 900)
+not update
+('iteration number:', 901)
+not update
+('iteration number:', 902)
+not update
+('iteration number:', 903)
+not update
+('iteration number:', 904)
+not update
+('iteration number:', 905)
+not update
+('iteration number:', 906)
+not update
+('iteration number:', 907)
+not update
+('iteration number:', 908)
+not update
+('iteration number:', 909)
+not update
+('iteration number:', 910)
+not update
+('iteration number:', 911)
+not update
+('iteration number:', 912)
+not update
+('iteration number:', 913)
+not update
+('iteration number:', 914)
+not update
+('iteration number:', 915)
+not update
+('iteration number:', 916)
+not update
+('iteration number:', 917)
+not update
+('iteration number:', 918)
+not update
+('iteration number:', 919)
+not update
+('iteration number:', 920)
+not update
+('iteration number:', 921)
+not update
+('iteration number:', 922)
+not update
+('iteration number:', 923)
+not update
+('iteration number:', 924)
+not update
+('iteration number:', 925)
+not update
+('iteration number:', 926)
+not update
+('iteration number:', 927)
+not update
+('iteration number:', 928)
+not update
+('iteration number:', 929)
+not update
+('iteration number:', 930)
+not update
+('iteration number:', 931)
+not update
+('iteration number:', 932)
+not update
+('iteration number:', 933)
+not update
+('iteration number:', 934)
+not update
+('iteration number:', 935)
+not update
+('iteration number:', 936)
+not update
+('iteration number:', 937)
+not update
+('iteration number:', 938)
+not update
+('iteration number:', 939)
+not update
+('iteration number:', 940)
+not update
+('iteration number:', 941)
+not update
+('iteration number:', 942)
+not update
+('iteration number:', 943)
+not update
+('iteration number:', 944)
+not update
+('iteration number:', 945)
+not update
+('iteration number:', 946)
+not update
+('iteration number:', 947)
+not update
+('iteration number:', 948)
+not update
+('iteration number:', 949)
+not update
+('iteration number:', 950)
+not update
+('iteration number:', 951)
+not update
+('iteration number:', 952)
+not update
+('iteration number:', 953)
+not update
+('iteration number:', 954)
+not update
+('iteration number:', 955)
+not update
+('iteration number:', 956)
+not update
+('iteration number:', 957)
+not update
+('iteration number:', 958)
+not update
+('iteration number:', 959)
+not update
+('iteration number:', 960)
+not update
+('iteration number:', 961)
+not update
+('iteration number:', 962)
+not update
+('iteration number:', 963)
+not update
+('iteration number:', 964)
+not update
+('iteration number:', 965)
+not update
+('iteration number:', 966)
+not update
+('iteration number:', 967)
+not update
+('iteration number:', 968)
+not update
+('iteration number:', 969)
+not update
+('iteration number:', 970)
+not update
+('iteration number:', 971)
+not update
+('iteration number:', 972)
+not update
+('iteration number:', 973)
+not update
+('iteration number:', 974)
+not update
+('iteration number:', 975)
+not update
+('iteration number:', 976)
+not update
+('iteration number:', 977)
+not update
+('iteration number:', 978)
+not update
+('iteration number:', 979)
+not update
+('iteration number:', 980)
+not update
+('iteration number:', 981)
+not update
+('iteration number:', 982)
+not update
+('iteration number:', 983)
+not update
+('iteration number:', 984)
+not update
+('iteration number:', 985)
+not update
+('iteration number:', 986)
+not update
+('iteration number:', 987)
+not update
+('iteration number:', 988)
+not update
+('iteration number:', 989)
+not update
+('iteration number:', 990)
+not update
+('iteration number:', 991)
+not update
+('iteration number:', 992)
+not update
+('iteration number:', 993)
+not update
+('iteration number:', 994)
+not update
+('iteration number:', 995)
+not update
+('iteration number:', 996)
+not update
+('iteration number:', 997)
+not update
+('iteration number:', 998)
+not update
+('iteration number:', 999)
+not update
+('iteration number:', 1000)
+not update
+('iteration number:', 1001)
+not update
+('iteration number:', 1002)
+not update
+('iteration number:', 1003)
+not update
+('iteration number:', 1004)
+not update
+('iteration number:', 1005)
+not update
+('iteration number:', 1006)
+not update
+('iteration number:', 1007)
+not update
+('iteration number:', 1008)
+not update
+('iteration number:', 1009)
+not update
+('iteration number:', 1010)
+not update
+('iteration number:', 1011)
+not update
+('iteration number:', 1012)
+not update
+('iteration number:', 1013)
+not update
+('iteration number:', 1014)
+not update
+('iteration number:', 1015)
+not update
+('iteration number:', 1016)
+not update
+('iteration number:', 1017)
+not update
+('iteration number:', 1018)
+not update
+('iteration number:', 1019)
+not update
+('iteration number:', 1020)
+not update
+('iteration number:', 1021)
+not update
+('iteration number:', 1022)
+not update
+('iteration number:', 1023)
+not update
+('iteration number:', 1024)
+not update
+('iteration number:', 1025)
+not update
+('iteration number:', 1026)
+not update
+('iteration number:', 1027)
+not update
+('iteration number:', 1028)
+not update
+('iteration number:', 1029)
+not update
+('iteration number:', 1030)
+not update
+('iteration number:', 1031)
+not update
+('iteration number:', 1032)
+not update
+('iteration number:', 1033)
+not update
+('iteration number:', 1034)
+not update
+('iteration number:', 1035)
+not update
+('iteration number:', 1036)
+not update
+('iteration number:', 1037)
+not update
+('iteration number:', 1038)
+not update
+('iteration number:', 1039)
+not update
+('iteration number:', 1040)
+not update
+('iteration number:', 1041)
+not update
+('iteration number:', 1042)
+not update
+('iteration number:', 1043)
+not update
+('iteration number:', 1044)
+not update
+('iteration number:', 1045)
+not update
+('iteration number:', 1046)
+not update
+('iteration number:', 1047)
+not update
+('iteration number:', 1048)
+not update
+('iteration number:', 1049)
+not update
+('iteration number:', 1050)
+not update
+('iteration number:', 1051)
+not update
+('iteration number:', 1052)
+not update
+('iteration number:', 1053)
+not update
+('iteration number:', 1054)
+not update
+('iteration number:', 1055)
+not update
+('iteration number:', 1056)
+not update
+('iteration number:', 1057)
+not update
+('iteration number:', 1058)
+not update
+('iteration number:', 1059)
+not update
+('iteration number:', 1060)
+not update
+('iteration number:', 1061)
+not update
+('iteration number:', 1062)
+not update
+('iteration number:', 1063)
+not update
+('iteration number:', 1064)
+not update
+('iteration number:', 1065)
+not update
+('iteration number:', 1066)
+not update
+('iteration number:', 1067)
+not update
+('iteration number:', 1068)
+not update
+('iteration number:', 1069)
+not update
+('iteration number:', 1070)
+not update
+('iteration number:', 1071)
+not update
+('iteration number:', 1072)
+not update
+('iteration number:', 1073)
+not update
+('iteration number:', 1074)
+not update
+('iteration number:', 1075)
+not update
+('iteration number:', 1076)
+not update
+('iteration number:', 1077)
+not update
+('iteration number:', 1078)
+not update
+('iteration number:', 1079)
+not update
+('iteration number:', 1080)
+not update
+('iteration number:', 1081)
+not update
+('iteration number:', 1082)
+not update
+('iteration number:', 1083)
+not update
+('iteration number:', 1084)
+not update
+('iteration number:', 1085)
+not update
+('iteration number:', 1086)
+not update
+('iteration number:', 1087)
+not update
+('iteration number:', 1088)
+not update
+('iteration number:', 1089)
+not update
+('iteration number:', 1090)
+not update
+('iteration number:', 1091)
+not update
+('iteration number:', 1092)
+not update
+('iteration number:', 1093)
+not update
+('iteration number:', 1094)
+not update
+('iteration number:', 1095)
+not update
+('iteration number:', 1096)
+not update
+('iteration number:', 1097)
+not update
+('iteration number:', 1098)
+not update
+('iteration number:', 1099)
+not update
+('iteration number:', 1100)
+not update
+('iteration number:', 1101)
+not update
+('iteration number:', 1102)
+not update
+('iteration number:', 1103)
+not update
+('iteration number:', 1104)
+not update
+('iteration number:', 1105)
+not update
+('iteration number:', 1106)
+not update
+('iteration number:', 1107)
+not update
+('iteration number:', 1108)
+not update
+('iteration number:', 1109)
+not update
+('iteration number:', 1110)
+not update
+('iteration number:', 1111)
+not update
+('iteration number:', 1112)
+not update
+('iteration number:', 1113)
+not update
+('iteration number:', 1114)
+not update
+('iteration number:', 1115)
+not update
+('iteration number:', 1116)
+not update
+('iteration number:', 1117)
+not update
+('iteration number:', 1118)
+not update
+('iteration number:', 1119)
+not update
+('iteration number:', 1120)
+not update
+('iteration number:', 1121)
+not update
+('iteration number:', 1122)
+not update
+('iteration number:', 1123)
+not update
+('iteration number:', 1124)
+not update
+('iteration number:', 1125)
+not update
+('iteration number:', 1126)
+not update
+('iteration number:', 1127)
+not update
+('iteration number:', 1128)
+not update
+('iteration number:', 1129)
+not update
+('iteration number:', 1130)
+not update
+('iteration number:', 1131)
+not update
+('iteration number:', 1132)
+not update
+('iteration number:', 1133)
+not update
+('iteration number:', 1134)
+not update
+('iteration number:', 1135)
+not update
+('iteration number:', 1136)
+not update
+('iteration number:', 1137)
+not update
+('iteration number:', 1138)
+not update
+('iteration number:', 1139)
+not update
+('iteration number:', 1140)
+not update
+('iteration number:', 1141)
+not update
+('iteration number:', 1142)
+not update
+('iteration number:', 1143)
+not update
+('iteration number:', 1144)
+not update
+('iteration number:', 1145)
+not update
+('iteration number:', 1146)
+not update
+('iteration number:', 1147)
+not update
+('iteration number:', 1148)
+not update
+('iteration number:', 1149)
+not update
+('iteration number:', 1150)
+not update
+('iteration number:', 1151)
+not update
+('iteration number:', 1152)
+not update
+('iteration number:', 1153)
+not update
+('iteration number:', 1154)
+not update
+('iteration number:', 1155)
+not update
+('iteration number:', 1156)
+not update
+('iteration number:', 1157)
+not update
+('iteration number:', 1158)
+not update
+('iteration number:', 1159)
+not update
+('iteration number:', 1160)
+not update
+('iteration number:', 1161)
+not update
+('iteration number:', 1162)
+not update
+('iteration number:', 1163)
+not update
+('iteration number:', 1164)
+not update
+('iteration number:', 1165)
+not update
+('iteration number:', 1166)
+not update
+('iteration number:', 1167)
+not update
+('iteration number:', 1168)
+not update
+('iteration number:', 1169)
+not update
+('iteration number:', 1170)
+not update
+('iteration number:', 1171)
+not update
+('iteration number:', 1172)
+not update
+('iteration number:', 1173)
+not update
+('iteration number:', 1174)
+not update
+('iteration number:', 1175)
+not update
+('iteration number:', 1176)
+not update
+('iteration number:', 1177)
+not update
+('iteration number:', 1178)
+not update
+('iteration number:', 1179)
+not update
+('iteration number:', 1180)
+not update
+('iteration number:', 1181)
+not update
+('iteration number:', 1182)
+not update
+('iteration number:', 1183)
+not update
+('iteration number:', 1184)
+not update
+('iteration number:', 1185)
+not update
+('iteration number:', 1186)
+not update
+('iteration number:', 1187)
+not update
+('iteration number:', 1188)
+not update
+('iteration number:', 1189)
+not update
+('iteration number:', 1190)
+not update
+('iteration number:', 1191)
+not update
+('iteration number:', 1192)
+not update
+('iteration number:', 1193)
+not update
+('iteration number:', 1194)
+not update
+('iteration number:', 1195)
+not update
+('iteration number:', 1196)
+not update
+('iteration number:', 1197)
+not update
+('iteration number:', 1198)
+not update
+('iteration number:', 1199)
+not update
+('iteration number:', 1200)
+not update
+('iteration number:', 1201)
+not update
+('iteration number:', 1202)
+not update
+('iteration number:', 1203)
+not update
+('iteration number:', 1204)
+not update
+('iteration number:', 1205)
+not update
+('iteration number:', 1206)
+not update
+('iteration number:', 1207)
+not update
+('iteration number:', 1208)
+not update
+('iteration number:', 1209)
+not update
+('iteration number:', 1210)
+not update
+('iteration number:', 1211)
+not update
+('iteration number:', 1212)
+not update
+('iteration number:', 1213)
+not update
+('iteration number:', 1214)
+not update
+('iteration number:', 1215)
+not update
+('iteration number:', 1216)
+not update
+('iteration number:', 1217)
+not update
+('iteration number:', 1218)
+not update
+('iteration number:', 1219)
+not update
+('iteration number:', 1220)
+not update
+('iteration number:', 1221)
+not update
+('iteration number:', 1222)
+not update
+('iteration number:', 1223)
+not update
+('iteration number:', 1224)
+not update
+('iteration number:', 1225)
+not update
+('iteration number:', 1226)
+not update
+('iteration number:', 1227)
+not update
+('iteration number:', 1228)
+not update
+('iteration number:', 1229)
+not update
+('iteration number:', 1230)
+not update
+('iteration number:', 1231)
+not update
+('iteration number:', 1232)
+not update
+('iteration number:', 1233)
+not update
+('iteration number:', 1234)
+not update
+('iteration number:', 1235)
+not update
+('iteration number:', 1236)
+not update
+('iteration number:', 1237)
+not update
+('iteration number:', 1238)
+not update
+('iteration number:', 1239)
+not update
+('iteration number:', 1240)
+not update
+('iteration number:', 1241)
+not update
+('iteration number:', 1242)
+not update
+('iteration number:', 1243)
+not update
+('iteration number:', 1244)
+not update
+('iteration number:', 1245)
+not update
+('iteration number:', 1246)
+not update
+('iteration number:', 1247)
+not update
+('iteration number:', 1248)
+not update
+('iteration number:', 1249)
+not update
+('iteration number:', 1250)
+not update
+('iteration number:', 1251)
+not update
+('iteration number:', 1252)
+not update
+('iteration number:', 1253)
+not update
+('iteration number:', 1254)
+not update
+('iteration number:', 1255)
+not update
+('iteration number:', 1256)
+not update
+('iteration number:', 1257)
+not update
+('iteration number:', 1258)
+not update
+('iteration number:', 1259)
+not update
+('iteration number:', 1260)
+not update
+('iteration number:', 1261)
+not update
+('iteration number:', 1262)
+not update
+('iteration number:', 1263)
+not update
+('iteration number:', 1264)
+not update
+('iteration number:', 1265)
+not update
+('iteration number:', 1266)
+not update
+('iteration number:', 1267)
+not update
+('iteration number:', 1268)
+not update
+('iteration number:', 1269)
+not update
+('iteration number:', 1270)
+not update
+('iteration number:', 1271)
+not update
+('iteration number:', 1272)
+not update
+('iteration number:', 1273)
+not update
+('iteration number:', 1274)
+not update
+('iteration number:', 1275)
+not update
+('iteration number:', 1276)
+not update
+('iteration number:', 1277)
+not update
+('iteration number:', 1278)
+not update
+('iteration number:', 1279)
+not update
+('iteration number:', 1280)
+not update
+('iteration number:', 1281)
+not update
+('iteration number:', 1282)
+not update
+('iteration number:', 1283)
+not update
+('iteration number:', 1284)
+not update
+('iteration number:', 1285)
+not update
+('iteration number:', 1286)
+not update
+('iteration number:', 1287)
+not update
+('iteration number:', 1288)
+not update
+('iteration number:', 1289)
+not update
+('iteration number:', 1290)
+not update
+('iteration number:', 1291)
+not update
+('iteration number:', 1292)
+not update
+('iteration number:', 1293)
+not update
+('iteration number:', 1294)
+not update
+('iteration number:', 1295)
+not update
+('iteration number:', 1296)
+not update
+('iteration number:', 1297)
+not update
+('iteration number:', 1298)
+not update
+('iteration number:', 1299)
+not update
+('iteration number:', 1300)
+not update
+('iteration number:', 1301)
+not update
+('iteration number:', 1302)
+not update
+('iteration number:', 1303)
+not update
+('iteration number:', 1304)
+not update
+('iteration number:', 1305)
+not update
+('iteration number:', 1306)
+not update
+('iteration number:', 1307)
+not update
+('iteration number:', 1308)
+not update
+('iteration number:', 1309)
+not update
+('iteration number:', 1310)
+not update
+('iteration number:', 1311)
+not update
+('iteration number:', 1312)
+not update
+('iteration number:', 1313)
+not update
+('iteration number:', 1314)
+not update
+('iteration number:', 1315)
+not update
+('iteration number:', 1316)
+not update
+('iteration number:', 1317)
+not update
+('iteration number:', 1318)
+not update
+('iteration number:', 1319)
+not update
+('iteration number:', 1320)
+not update
+('iteration number:', 1321)
+not update
+('iteration number:', 1322)
+not update
+('iteration number:', 1323)
+not update
+('iteration number:', 1324)
+not update
+('iteration number:', 1325)
+not update
+('iteration number:', 1326)
+not update
+('iteration number:', 1327)
+not update
+('iteration number:', 1328)
+not update
+('iteration number:', 1329)
+not update
+('iteration number:', 1330)
+not update
+('iteration number:', 1331)
+not update
+('iteration number:', 1332)
+not update
+('iteration number:', 1333)
+not update
+('iteration number:', 1334)
+not update
+('iteration number:', 1335)
+not update
+('iteration number:', 1336)
+not update
+('iteration number:', 1337)
+not update
+('iteration number:', 1338)
+not update
+('iteration number:', 1339)
+not update
+('iteration number:', 1340)
+not update
+('iteration number:', 1341)
+not update
+('iteration number:', 1342)
+not update
+('iteration number:', 1343)
+not update
+('iteration number:', 1344)
+not update
+('iteration number:', 1345)
+not update
+('iteration number:', 1346)
+not update
+('iteration number:', 1347)
+not update
+('iteration number:', 1348)
+not update
+('iteration number:', 1349)
+not update
+('iteration number:', 1350)
+not update
+('iteration number:', 1351)
+not update
+('iteration number:', 1352)
+not update
+('iteration number:', 1353)
+not update
+('iteration number:', 1354)
+not update
+('iteration number:', 1355)
+not update
+('iteration number:', 1356)
+not update
+('iteration number:', 1357)
+not update
+('iteration number:', 1358)
+not update
+('iteration number:', 1359)
+not update
+('iteration number:', 1360)
+not update
+('iteration number:', 1361)
+not update
+('iteration number:', 1362)
+not update
+('iteration number:', 1363)
+not update
+('iteration number:', 1364)
+not update
+('iteration number:', 1365)
+not update
+('iteration number:', 1366)
+not update
+('iteration number:', 1367)
+not update
+('iteration number:', 1368)
+not update
+('iteration number:', 1369)
+not update
+('iteration number:', 1370)
+not update
+('iteration number:', 1371)
+('update policy, round=', 46)
+('iteration number:', 1372)
+not update
+('iteration number:', 1373)
+not update
+('iteration number:', 1374)
+not update
+('iteration number:', 1375)
+not update
+('iteration number:', 1376)
+not update
+('iteration number:', 1377)
+not update
+('iteration number:', 1378)
+not update
+('iteration number:', 1379)
+not update
+('iteration number:', 1380)
+not update
+('iteration number:', 1381)
+not update
+('iteration number:', 1382)
+not update
+('iteration number:', 1383)
+not update
+('iteration number:', 1384)
+not update
+('iteration number:', 1385)
+not update
+('iteration number:', 1386)
+not update
+('iteration number:', 1387)
+not update
+('iteration number:', 1388)
+not update
+('iteration number:', 1389)
+not update
+('iteration number:', 1390)
+not update
+('iteration number:', 1391)
+not update
+('iteration number:', 1392)
+not update
+('iteration number:', 1393)
+not update
+('iteration number:', 1394)
+not update
+('iteration number:', 1395)
+not update
+('iteration number:', 1396)
+not update
+('iteration number:', 1397)
+not update
+('iteration number:', 1398)
+not update
+('iteration number:', 1399)
+not update
+('iteration number:', 1400)
+not update
+('iteration number:', 1401)
+not update
+('iteration number:', 1402)
+not update
+('iteration number:', 1403)
+not update
+('iteration number:', 1404)
+not update
+('iteration number:', 1405)
+not update
+('iteration number:', 1406)
+not update
+('iteration number:', 1407)
+not update
+('iteration number:', 1408)
+not update
+('iteration number:', 1409)
+not update
+('iteration number:', 1410)
+not update
+('iteration number:', 1411)
+not update
+('iteration number:', 1412)
+not update
+('iteration number:', 1413)
+not update
+('iteration number:', 1414)
+not update
+('iteration number:', 1415)
+not update
+('iteration number:', 1416)
+not update
+('iteration number:', 1417)
+not update
+('iteration number:', 1418)
+not update
+('iteration number:', 1419)
+not update
+('iteration number:', 1420)
+not update
+('iteration number:', 1421)
+not update
+('iteration number:', 1422)
+not update
+('iteration number:', 1423)
+not update
+('iteration number:', 1424)
+not update
+('iteration number:', 1425)
+not update
+('iteration number:', 1426)
+not update
+('iteration number:', 1427)
+not update
+('iteration number:', 1428)
+not update
+('iteration number:', 1429)
+not update
+('iteration number:', 1430)
+not update
+('iteration number:', 1431)
+not update
+('iteration number:', 1432)
+not update
+('iteration number:', 1433)
+not update
+('iteration number:', 1434)
+not update
+('iteration number:', 1435)
+not update
+('iteration number:', 1436)
+not update
+('iteration number:', 1437)
+not update
+('iteration number:', 1438)
+not update
+('iteration number:', 1439)
+not update
+('iteration number:', 1440)
+not update
+('iteration number:', 1441)
+not update
+('iteration number:', 1442)
+not update
+('iteration number:', 1443)
+not update
+('iteration number:', 1444)
+not update
+('iteration number:', 1445)
+not update
+('iteration number:', 1446)
+not update
+('iteration number:', 1447)
+not update
+('iteration number:', 1448)
+not update
+('iteration number:', 1449)
+not update
+('iteration number:', 1450)
+not update
+('iteration number:', 1451)
+not update
+('iteration number:', 1452)
+not update
+('iteration number:', 1453)
+not update
+('iteration number:', 1454)
+not update
+('iteration number:', 1455)
+not update
+('iteration number:', 1456)
+not update
+('iteration number:', 1457)
+not update
+('iteration number:', 1458)
+not update
+('iteration number:', 1459)
+not update
+('iteration number:', 1460)
+not update
+('iteration number:', 1461)
+not update
+('iteration number:', 1462)
+not update
+('iteration number:', 1463)
+not update
+('iteration number:', 1464)
+not update
+('iteration number:', 1465)
+not update
+('iteration number:', 1466)
+not update
+('iteration number:', 1467)
+not update
+('iteration number:', 1468)
+not update
+('iteration number:', 1469)
+not update
+('iteration number:', 1470)
+not update
+('iteration number:', 1471)
+not update
+('iteration number:', 1472)
+not update
+('iteration number:', 1473)
+not update
+('iteration number:', 1474)
+not update
+('iteration number:', 1475)
+not update
+('iteration number:', 1476)
+not update
+('iteration number:', 1477)
+not update
+('iteration number:', 1478)
+not update
+('iteration number:', 1479)
+not update
+('iteration number:', 1480)
+not update
+('iteration number:', 1481)
+not update
+('iteration number:', 1482)
+not update
+('iteration number:', 1483)
+not update
+('iteration number:', 1484)
+not update
+('iteration number:', 1485)
+not update
+('iteration number:', 1486)
+not update
+('iteration number:', 1487)
+not update
+('iteration number:', 1488)
+not update
+('iteration number:', 1489)
+not update
+('iteration number:', 1490)
+not update
+('iteration number:', 1491)
+not update
+('iteration number:', 1492)
+not update
+('iteration number:', 1493)
+not update
+('iteration number:', 1494)
+not update
+('iteration number:', 1495)
+not update
+('iteration number:', 1496)
+not update
+('iteration number:', 1497)
+not update
+('iteration number:', 1498)
+not update
+('iteration number:', 1499)
+not update
+('iteration number:', 1500)
+not update
+('iteration number:', 1501)
+not update
+('iteration number:', 1502)
+not update
+('iteration number:', 1503)
+not update
+('iteration number:', 1504)
+not update
+('iteration number:', 1505)
+not update
+('iteration number:', 1506)
+not update
+('iteration number:', 1507)
+not update
+('iteration number:', 1508)
+not update
+('iteration number:', 1509)
+not update
+('iteration number:', 1510)
+not update
+('iteration number:', 1511)
+not update
+('iteration number:', 1512)
+not update
+('iteration number:', 1513)
+not update
+('iteration number:', 1514)
+not update
+('iteration number:', 1515)
+not update
+('iteration number:', 1516)
+not update
+('iteration number:', 1517)
+not update
+('iteration number:', 1518)
+not update
+('iteration number:', 1519)
+not update
+('iteration number:', 1520)
+not update
+('iteration number:', 1521)
+not update
+('iteration number:', 1522)
+not update
+('iteration number:', 1523)
+not update
+('iteration number:', 1524)
+not update
+('iteration number:', 1525)
+not update
+('iteration number:', 1526)
+not update
+('iteration number:', 1527)
+not update
+('iteration number:', 1528)
+not update
+('iteration number:', 1529)
+not update
+('iteration number:', 1530)
+not update
+('iteration number:', 1531)
+not update
+('iteration number:', 1532)
+not update
+('iteration number:', 1533)
+not update
+('iteration number:', 1534)
+not update
+('iteration number:', 1535)
+not update
+('iteration number:', 1536)
+not update
+('iteration number:', 1537)
+not update
+('iteration number:', 1538)
+not update
+('iteration number:', 1539)
+not update
+('iteration number:', 1540)
+not update
+('iteration number:', 1541)
+not update
+('iteration number:', 1542)
+not update
+('iteration number:', 1543)
+not update
+('iteration number:', 1544)
+not update
+('iteration number:', 1545)
+not update
+('iteration number:', 1546)
+not update
+('iteration number:', 1547)
+not update
+('iteration number:', 1548)
+not update
+('iteration number:', 1549)
+not update
+('iteration number:', 1550)
+not update
+('iteration number:', 1551)
+not update
+('iteration number:', 1552)
+not update
+('iteration number:', 1553)
+not update
+('iteration number:', 1554)
+not update
+('iteration number:', 1555)
+not update
+('iteration number:', 1556)
+not update
+('iteration number:', 1557)
+not update
+('iteration number:', 1558)
+not update
+('iteration number:', 1559)
+not update
+('iteration number:', 1560)
+not update
+('iteration number:', 1561)
+not update
+('iteration number:', 1562)
+not update
+('iteration number:', 1563)
+not update
+('iteration number:', 1564)
+not update
+('iteration number:', 1565)
+not update
+('iteration number:', 1566)
+not update
+('iteration number:', 1567)
+not update
+('iteration number:', 1568)
+not update
+('iteration number:', 1569)
+not update
+('iteration number:', 1570)
+not update
+('iteration number:', 1571)
+not update
+('iteration number:', 1572)
+not update
+('iteration number:', 1573)
+not update
+('iteration number:', 1574)
+not update
+('iteration number:', 1575)
+not update
+('iteration number:', 1576)
+not update
+('iteration number:', 1577)
+not update
+('iteration number:', 1578)
+not update
+('iteration number:', 1579)
+not update
+('iteration number:', 1580)
+not update
+('iteration number:', 1581)
+not update
+('iteration number:', 1582)
+not update
+('iteration number:', 1583)
+not update
+('iteration number:', 1584)
+not update
+('iteration number:', 1585)
+not update
+('iteration number:', 1586)
+not update
+('iteration number:', 1587)
+not update
+('iteration number:', 1588)
+not update
+('iteration number:', 1589)
+not update
+('iteration number:', 1590)
+not update
+('iteration number:', 1591)
+not update
+('iteration number:', 1592)
+not update
+('iteration number:', 1593)
+not update
+('iteration number:', 1594)
+not update
+('iteration number:', 1595)
+not update
+('iteration number:', 1596)
+not update
+('iteration number:', 1597)
+not update
+('iteration number:', 1598)
+not update
+('iteration number:', 1599)
+not update
+('iteration number:', 1600)
+not update
+('iteration number:', 1601)
+not update
+('iteration number:', 1602)
+not update
+('iteration number:', 1603)
+not update
+('iteration number:', 1604)
+not update
+('iteration number:', 1605)
+not update
+('iteration number:', 1606)
+not update
+('iteration number:', 1607)
+not update
+('iteration number:', 1608)
+not update
+('iteration number:', 1609)
+not update
+('iteration number:', 1610)
+not update
+('iteration number:', 1611)
+not update
+('iteration number:', 1612)
+not update
+('iteration number:', 1613)
+not update
+('iteration number:', 1614)
+not update
+('iteration number:', 1615)
+not update
+('iteration number:', 1616)
+not update
+('iteration number:', 1617)
+not update
+('iteration number:', 1618)
+not update
+('iteration number:', 1619)
+not update
+('iteration number:', 1620)
+not update
+('iteration number:', 1621)
+not update
+('iteration number:', 1622)
+not update
+('iteration number:', 1623)
+not update
+('iteration number:', 1624)
+not update
+('iteration number:', 1625)
+not update
+('iteration number:', 1626)
+not update
+('iteration number:', 1627)
+not update
+('iteration number:', 1628)
+not update
+('iteration number:', 1629)
+not update
+('iteration number:', 1630)
+not update
+('iteration number:', 1631)
+not update
+('iteration number:', 1632)
+not update
+('iteration number:', 1633)
+not update
+('iteration number:', 1634)
+not update
+('iteration number:', 1635)
+not update
+('iteration number:', 1636)
+not update
+('iteration number:', 1637)
+not update
+('iteration number:', 1638)
+not update
+('iteration number:', 1639)
+not update
+('iteration number:', 1640)
+not update
+('iteration number:', 1641)
+not update
+('iteration number:', 1642)
+not update
+('iteration number:', 1643)
+not update
+('iteration number:', 1644)
+not update
+('iteration number:', 1645)
+not update
+('iteration number:', 1646)
+not update
+('iteration number:', 1647)
+not update
+('iteration number:', 1648)
+not update
+('iteration number:', 1649)
+not update
+('iteration number:', 1650)
+not update
+('iteration number:', 1651)
+not update
+('iteration number:', 1652)
+not update
+('iteration number:', 1653)
+not update
+('iteration number:', 1654)
+not update
+('iteration number:', 1655)
+not update
+('iteration number:', 1656)
+not update
+('iteration number:', 1657)
+not update
+('iteration number:', 1658)
+not update
+('iteration number:', 1659)
+not update
+('iteration number:', 1660)
+not update
+('iteration number:', 1661)
+not update
+('iteration number:', 1662)
+not update
+('iteration number:', 1663)
+not update
+('iteration number:', 1664)
+not update
+('iteration number:', 1665)
+not update
+('iteration number:', 1666)
+not update
+('iteration number:', 1667)
+not update
+('iteration number:', 1668)
+not update
+('iteration number:', 1669)
+not update
+('iteration number:', 1670)
+not update
+('iteration number:', 1671)
+not update
+('iteration number:', 1672)
+not update
+('iteration number:', 1673)
+not update
+('iteration number:', 1674)
+not update
+('iteration number:', 1675)
+not update
+('iteration number:', 1676)
+not update
+('iteration number:', 1677)
+not update
+('iteration number:', 1678)
+not update
+('iteration number:', 1679)
+not update
+('iteration number:', 1680)
+not update
+('iteration number:', 1681)
+not update
+('iteration number:', 1682)
+not update
+('iteration number:', 1683)
+not update
+('iteration number:', 1684)
+not update
+('iteration number:', 1685)
+not update
+('iteration number:', 1686)
+not update
+('iteration number:', 1687)
+not update
+('iteration number:', 1688)
+not update
+('iteration number:', 1689)
+not update
+('iteration number:', 1690)
+not update
+('iteration number:', 1691)
+not update
+('iteration number:', 1692)
+not update
+('iteration number:', 1693)
+not update
+('iteration number:', 1694)
+not update
+('iteration number:', 1695)
+not update
+('iteration number:', 1696)
+not update
+('iteration number:', 1697)
+not update
+('iteration number:', 1698)
+not update
+('iteration number:', 1699)
+not update
+('iteration number:', 1700)
+not update
+('iteration number:', 1701)
+not update
+('iteration number:', 1702)
+not update
+('iteration number:', 1703)
+not update
+('iteration number:', 1704)
+not update
+('iteration number:', 1705)
+not update
+('iteration number:', 1706)
+not update
+('iteration number:', 1707)
+not update
+('iteration number:', 1708)
+not update
+('iteration number:', 1709)
+not update
+('iteration number:', 1710)
+not update
+('iteration number:', 1711)
+not update
+('iteration number:', 1712)
+not update
+('iteration number:', 1713)
+not update
+('iteration number:', 1714)
+not update
+('iteration number:', 1715)
+not update
+('iteration number:', 1716)
+not update
+('iteration number:', 1717)
+not update
+('iteration number:', 1718)
+not update
+('iteration number:', 1719)
+not update
+('iteration number:', 1720)
+not update
+('iteration number:', 1721)
+not update
+('iteration number:', 1722)
+not update
+('iteration number:', 1723)
+not update
+('iteration number:', 1724)
+not update
+('iteration number:', 1725)
+not update
+('iteration number:', 1726)
+not update
+('iteration number:', 1727)
+not update
+('iteration number:', 1728)
+not update
+('iteration number:', 1729)
+not update
+('iteration number:', 1730)
+not update
+('iteration number:', 1731)
+not update
+('iteration number:', 1732)
+not update
+('iteration number:', 1733)
+not update
+('iteration number:', 1734)
+not update
+('iteration number:', 1735)
+not update
+('iteration number:', 1736)
+not update
+('iteration number:', 1737)
+not update
+('iteration number:', 1738)
+not update
+('iteration number:', 1739)
+not update
+('iteration number:', 1740)
+not update
+('iteration number:', 1741)
+not update
+('iteration number:', 1742)
+not update
+('iteration number:', 1743)
+not update
+('iteration number:', 1744)
+not update
+('iteration number:', 1745)
+not update
+('iteration number:', 1746)
+not update
+('iteration number:', 1747)
+not update
+('iteration number:', 1748)
+not update
+('iteration number:', 1749)
+not update
+('iteration number:', 1750)
+not update
+('iteration number:', 1751)
+not update
+('iteration number:', 1752)
+not update
+('iteration number:', 1753)
+not update
+('iteration number:', 1754)
+not update
+('iteration number:', 1755)
+not update
+('iteration number:', 1756)
+not update
+('iteration number:', 1757)
+not update
+('iteration number:', 1758)
+not update
+('iteration number:', 1759)
+not update
+('iteration number:', 1760)
+not update
+('iteration number:', 1761)
+not update
+('iteration number:', 1762)
+not update
+('iteration number:', 1763)
+not update
+('iteration number:', 1764)
+not update
+('iteration number:', 1765)
+not update
+('iteration number:', 1766)
+not update
+('iteration number:', 1767)
+not update
+('iteration number:', 1768)
+not update
+('iteration number:', 1769)
+not update
+('iteration number:', 1770)
+not update
+('iteration number:', 1771)
+not update
+('iteration number:', 1772)
+not update
+('iteration number:', 1773)
+not update
+('iteration number:', 1774)
+not update
+('iteration number:', 1775)
+not update
+('iteration number:', 1776)
+not update
+('iteration number:', 1777)
+not update
+('iteration number:', 1778)
+not update
+('iteration number:', 1779)
+not update
+('iteration number:', 1780)
+not update
+('iteration number:', 1781)
+not update
+('iteration number:', 1782)
+not update
+('iteration number:', 1783)
+not update
+('iteration number:', 1784)
+not update
+('iteration number:', 1785)
+not update
+('iteration number:', 1786)
+not update
+('iteration number:', 1787)
+not update
+('iteration number:', 1788)
+not update
+('iteration number:', 1789)
+not update
+('iteration number:', 1790)
+not update
+('iteration number:', 1791)
+not update
+('iteration number:', 1792)
+not update
+('iteration number:', 1793)
+not update
+('iteration number:', 1794)
+not update
+('iteration number:', 1795)
+not update
+('iteration number:', 1796)
+not update
+('iteration number:', 1797)
+not update
+('iteration number:', 1798)
+not update
+('iteration number:', 1799)
+not update
+('iteration number:', 1800)
+not update
+('iteration number:', 1801)
+not update
+('iteration number:', 1802)
+not update
+('iteration number:', 1803)
+not update
+('iteration number:', 1804)
+not update
+('iteration number:', 1805)
+not update
+('iteration number:', 1806)
+not update
+('iteration number:', 1807)
+not update
+('iteration number:', 1808)
+not update
+('iteration number:', 1809)
+not update
+('iteration number:', 1810)
+not update
+('iteration number:', 1811)
+not update
+('iteration number:', 1812)
+not update
+('iteration number:', 1813)
+not update
+('iteration number:', 1814)
+not update
+('iteration number:', 1815)
+not update
+('iteration number:', 1816)
+not update
+('iteration number:', 1817)
+not update
+('iteration number:', 1818)
+not update
+('iteration number:', 1819)
+not update
+('iteration number:', 1820)
+not update
+('iteration number:', 1821)
+not update
+('iteration number:', 1822)
+not update
+('iteration number:', 1823)
+not update
+('iteration number:', 1824)
+not update
+('iteration number:', 1825)
+not update
+('iteration number:', 1826)
+not update
+('iteration number:', 1827)
+not update
+('iteration number:', 1828)
+not update
+('iteration number:', 1829)
+not update
+('iteration number:', 1830)
+not update
+('iteration number:', 1831)
+not update
+('iteration number:', 1832)
+not update
+('iteration number:', 1833)
+not update
+('iteration number:', 1834)
+not update
+('iteration number:', 1835)
+not update
+('iteration number:', 1836)
+not update
+('iteration number:', 1837)
+not update
+('iteration number:', 1838)
+not update
+('iteration number:', 1839)
+not update
+('iteration number:', 1840)
+not update
+('iteration number:', 1841)
+not update
+('iteration number:', 1842)
+not update
+('iteration number:', 1843)
+not update
+('iteration number:', 1844)
+not update
+('iteration number:', 1845)
+not update
+('iteration number:', 1846)
+not update
+('iteration number:', 1847)
+not update
+('iteration number:', 1848)
+not update
+('iteration number:', 1849)
+not update
+('iteration number:', 1850)
+not update
+('iteration number:', 1851)
+not update
+('iteration number:', 1852)
+not update
+('iteration number:', 1853)
+not update
+('iteration number:', 1854)
+not update
+('iteration number:', 1855)
+not update
+('iteration number:', 1856)
+not update
+('iteration number:', 1857)
+not update
+('iteration number:', 1858)
+not update
+('iteration number:', 1859)
+not update
+('iteration number:', 1860)
+not update
+('iteration number:', 1861)
+not update
+('iteration number:', 1862)
+not update
+('iteration number:', 1863)
+not update
+('iteration number:', 1864)
+not update
+('iteration number:', 1865)
+not update
+('iteration number:', 1866)
+not update
+('iteration number:', 1867)
+not update
+('iteration number:', 1868)
+not update
+('iteration number:', 1869)
+not update
+('iteration number:', 1870)
+not update
+('iteration number:', 1871)
+not update
+('iteration number:', 1872)
+not update
+('iteration number:', 1873)
+not update
+('iteration number:', 1874)
+not update
+('iteration number:', 1875)
+not update
+('iteration number:', 1876)
+not update
+('iteration number:', 1877)
+not update
+('iteration number:', 1878)
+not update
+('iteration number:', 1879)
+not update
+('iteration number:', 1880)
+not update
+('iteration number:', 1881)
+not update
+('iteration number:', 1882)
+not update
+('iteration number:', 1883)
+not update
+('iteration number:', 1884)
+not update
+('iteration number:', 1885)
+not update
+('iteration number:', 1886)
+not update
+('iteration number:', 1887)
+not update
+('iteration number:', 1888)
+not update
+('iteration number:', 1889)
+not update
+('iteration number:', 1890)
+not update
+('iteration number:', 1891)
+not update
+('iteration number:', 1892)
+not update
+('iteration number:', 1893)
+not update
+('iteration number:', 1894)
+not update
+('iteration number:', 1895)
+not update
+('iteration number:', 1896)
+not update
+('iteration number:', 1897)
+not update
+('iteration number:', 1898)
+not update
+('iteration number:', 1899)
+not update
+('iteration number:', 1900)
+not update
+('iteration number:', 1901)
+not update
+('iteration number:', 1902)
+not update
+('iteration number:', 1903)
+not update
+('iteration number:', 1904)
+not update
+('iteration number:', 1905)
+not update
+('iteration number:', 1906)
+not update
+('iteration number:', 1907)
+not update
+('iteration number:', 1908)
+not update
+('iteration number:', 1909)
+not update
+('iteration number:', 1910)
+not update
+('iteration number:', 1911)
+not update
+('iteration number:', 1912)
+not update
+('iteration number:', 1913)
+not update
+('iteration number:', 1914)
+not update
+('iteration number:', 1915)
+not update
+('iteration number:', 1916)
+not update
+('iteration number:', 1917)
+not update
+('iteration number:', 1918)
+not update
+('iteration number:', 1919)
+not update
+('iteration number:', 1920)
+not update
+('iteration number:', 1921)
+not update
+('iteration number:', 1922)
+not update
+('iteration number:', 1923)
+not update
+('iteration number:', 1924)
+not update
+('iteration number:', 1925)
+not update
+('iteration number:', 1926)
+not update
+('iteration number:', 1927)
+not update
+('iteration number:', 1928)
+not update
+('iteration number:', 1929)
+not update
+('iteration number:', 1930)
+not update
+('iteration number:', 1931)
+not update
+('iteration number:', 1932)
+not update
+('iteration number:', 1933)
+not update
+('iteration number:', 1934)
+not update
+('iteration number:', 1935)
+not update
+('iteration number:', 1936)
+not update
+('iteration number:', 1937)
+not update
+('iteration number:', 1938)
+not update
+('iteration number:', 1939)
+not update
+('iteration number:', 1940)
+not update
+('iteration number:', 1941)
+not update
+('iteration number:', 1942)
+not update
+('iteration number:', 1943)
+not update
+('iteration number:', 1944)
+not update
+('iteration number:', 1945)
+not update
+('iteration number:', 1946)
+not update
+('iteration number:', 1947)
+not update
+('iteration number:', 1948)
+not update
+('iteration number:', 1949)
+not update
+('iteration number:', 1950)
+not update
+('iteration number:', 1951)
+not update
+('iteration number:', 1952)
+not update
+('iteration number:', 1953)
+not update
+('iteration number:', 1954)
+not update
+('iteration number:', 1955)
+not update
+('iteration number:', 1956)
+not update
+('iteration number:', 1957)
+not update
+('iteration number:', 1958)
+not update
+('iteration number:', 1959)
+not update
+('iteration number:', 1960)
+not update
+('iteration number:', 1961)
+not update
+('iteration number:', 1962)
+not update
+('iteration number:', 1963)
+not update
+('iteration number:', 1964)
+not update
+('iteration number:', 1965)
+not update
+('iteration number:', 1966)
+not update
+('iteration number:', 1967)
+not update
+('iteration number:', 1968)
+not update
+('iteration number:', 1969)
+not update
+('iteration number:', 1970)
+not update
+('iteration number:', 1971)
+not update
+('iteration number:', 1972)
+not update
+('iteration number:', 1973)
+not update
+('iteration number:', 1974)
+not update
+('iteration number:', 1975)
+not update
+('iteration number:', 1976)
+not update
+('iteration number:', 1977)
+not update
+('iteration number:', 1978)
+not update
+('iteration number:', 1979)
+not update
+('iteration number:', 1980)
+not update
+('iteration number:', 1981)
+not update
+('iteration number:', 1982)
+not update
+('iteration number:', 1983)
+not update
+('iteration number:', 1984)
+not update
+('iteration number:', 1985)
+not update
+('iteration number:', 1986)
+not update
+('iteration number:', 1987)
+not update
+('iteration number:', 1988)
+not update
+('iteration number:', 1989)
+not update
+('iteration number:', 1990)
+not update
+('iteration number:', 1991)
+not update
+('iteration number:', 1992)
+not update
+('iteration number:', 1993)
+not update
+('iteration number:', 1994)
+not update
+('iteration number:', 1995)
+not update
+('iteration number:', 1996)
+not update
+('iteration number:', 1997)
+not update
+('iteration number:', 1998)
+not update
+('iteration number:', 1999)
+not update
+('iteration number:', 2000)
+
+ Start linUCB
