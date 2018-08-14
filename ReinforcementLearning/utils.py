@@ -43,7 +43,7 @@ class MDP(object):
 	    r += self.gamma*self.V[next_state]
 	    return r
 
-	def ValueIteration(self,n_iter)
+	def ValueIteration(self,n_iter):
 		# Value Iteration
 		for it in range(n_iter):
 		    states = list(range(self.nStates))
@@ -51,7 +51,7 @@ class MDP(object):
 		    for state in states:
 		        self.V[state] = max(list(map(lambda a: self.Bellman_a(a,self.V,self.gamma,state,self.rewards,self.transitions),range(self.nActions))))
 
-	def updateGreedyPolicy(self)
+	def updateGreedyPolicy(self):
 		# Compute policy using value function
 		for state in range(nStates):
 		    tmp = np.zeros(nActions)
@@ -62,4 +62,3 @@ class MDP(object):
 		        tmp[a] = r
 		    self.policy[state] = np.argmax(tmp)
 
-print(policy)
