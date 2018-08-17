@@ -1,0 +1,11 @@
+setup.py
+ReinforcementLearning/UCB.py
+ReinforcementLearning/UCRL.py
+ReinforcementLearning/UCRL_old.py
+ReinforcementLearning/UCRLsimulator.py
+ReinforcementLearning/__init__.py
+ReinforcementLearning.egg-info/PKG-INFO
+ReinforcementLearning.egg-info/SOURCES.txt
+ReinforcementLearning.egg-info/dependency_links.txt
+ReinforcementLearning.egg-info/not-zip-safe
+ReinforcementLearning.egg-info/top_level.txt

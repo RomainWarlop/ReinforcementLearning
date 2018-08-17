@@ -4,8 +4,8 @@
 # magnitude and intercept
 #==============================================================================
 
-from UCRL import UCRL, linUCRL
-from UCB import linUCB
+from ReinforcementLearning.UCRL import UCRL, linUCRL
+from ReinforcementLearning.UCB import linUCB
 import numpy as np
 import pandas as pd
 from copy import deepcopy

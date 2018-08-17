@@ -11,10 +11,14 @@ from itertools import product as itp
 import time
 from random import shuffle
 
-t0 = time.time()
-colors = ['blue','green','hotpink','darkcyan','goldenrod','grey','brown','black','purple','yellow','orange']
+red55 = [182/255,25/255,36/255]
+blue55 = [83/255,173/255,180/255]
+green55 = [89/255,178/255,107/255]
 
-path = '/home/romain/Documents/BitBucket/PhD/linucrl/Exp1/'
+t0 = time.time()
+colors = [blue55,green55,red55]
+
+path = "/home/romain/Bureau/ongoingImages/"
 
 #np.random.seed(123)
 
@@ -186,18 +190,30 @@ for _it in [0]: #range(2):
     # Plot of the strategy for the VI and baseline
     #==============================================================================
     fig = plt.figure(figsize=(8, 8))
+    
     sub1 = plt.subplot(2, 1, 1)
-    sub1.plot(range(60),[x+1 for x in VI_arms[n_iter][:60]],'bo-',linewidth=3,
-              markersize=10,label='optimal policy')
+    sub1.spines["top"].set_visible(False) 
+    sub1.spines["bottom"].set_visible(False)
+    sub1.spines["right"].set_visible(False)
+    sub1.spines["left"].set_visible(False)
+    sub1.plot(range(60),[x+1 for x in VI_arms[n_iter][:60]],'o-',linewidth=3,
+              markersize=10,label='optimal policy',color=blue55)
     lgd = plt.legend(loc=10,fontsize=25)
     plt.yticks([1,2],[1,2],fontsize=30)
+    plt.xticks(fontsize=15)
     plt.ylim((0.8,2.2))
+    
     sub2 = plt.subplot(2, 1, 2)
-    sub2.plot(range(60),[x+1 for x in naive_arms[:60]], 'ro-',linewidth=3,
-              markersize=10,label='greedy policy')
+    sub2.spines["top"].set_visible(False) 
+    sub2.spines["bottom"].set_visible(False)
+    sub2.spines["right"].set_visible(False)
+    sub2.spines["left"].set_visible(False)
+    sub2.plot(range(60),[x+1 for x in naive_arms[:60]], 'o-',linewidth=3,
+              markersize=10,label='greedy policy',color=red55)
     fig.tight_layout()
     lgd = plt.legend(loc=10,fontsize=25)
     plt.yticks([1,2],[1,2],fontsize=30)
+    plt.xticks(fontsize=15)
     plt.ylim((0.8,2.2))
     plt.savefig(path+'pulled_arms_param'+str(_it)+'.pdf',
                 bbox_extra_artists=(lgd,), bbox_inches='tight')
@@ -207,15 +223,21 @@ for _it in [0]: #range(2):
     # Mean reward comparison from one random starting point
     #==============================================================================
     plt.figure(figsize=(8, 8))
+    ax = plt.subplot(111)
+    ax.spines["top"].set_visible(False)
+    ax.spines["bottom"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["left"].set_visible(False)
     mean0 = reward([0 for i in range(window)],0)
     mean1 = reward([1 for i in range(window)],1)
     bestMean = max(mean0,mean1)
     m = np.min([np.mean(VI_rew[n_iter]),np.mean(naive_rew),bestMean])
     M = np.max([np.mean(VI_rew[n_iter]),np.mean(naive_rew),bestMean])
-    plt.bar(range(K+1),[np.mean(VI_rew[n_iter]),np.mean(naive_rew),bestMean],
-            color=['blue','red','green','pink'],width=1)
-    plt.xticks([0.5,1.5,2.5],['optimal \npolicy','greedy\npolicy','best\nsingle arm'],fontsize=25)
-    plt.xlim((0,3))
+    plt.bar(range(3),[np.mean(VI_rew[n_iter]),np.mean(naive_rew),bestMean],
+            color=[blue55,red55,green55],width=1)
+    plt.xticks(range(3),['optimal \npolicy','greedy\npolicy','best\nsingle arm'],fontsize=25)
+    plt.yticks(fontsize=15)
+    plt.xlim((-0.5,3))
     plt.ylim((0.95*m,1.01*M))
     plt.savefig(path+'pulled_arms_param'+str(_it)+'_rewards.pdf',
                 bbox_inches='tight')

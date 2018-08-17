@@ -10,6 +10,9 @@ import statsmodels.api as sm
 import statsmodels.formula.api as smf
 import itertools
 
+red55 = [182/255,25/255,36/255]
+blue55 = [83/255,173/255,180/255]
+
 #movies = pd.read_csv("/home/romain/Data/Input/ml-100k/u.item",sep="|",index_col=False, encoding = "ISO-8859-1",
 #                   names=['movie_id','title','releasedate',
 #                   'videoreleasedate','IMDbURL','unknown','Action',
@@ -19,7 +22,8 @@ import itertools
 #                   'Western'])
 #movies.to_gbq("movielens100k.movies","data-science-55")
 
-path = '/home/romain/Documents/BitBucket/PhD/linucrl/ModelValidation/ML100K/'
+#path = '/home/romain/Documents/BitBucket/PhD/linucrl/ModelValidation/ML100K/'
+path = "/home/romain/Bureau/ongoingImages/"
 
 windows = [10] #[5,10,15]
 genres = ["Action","Comedy","Adventure","Thriller","Drama"]
@@ -103,15 +107,23 @@ for genre in genres:
                 
                 if d==5:
                     plt.figure(figsize=(8,6))
+                    ax = plt.subplot(111)
+                    ax.spines["top"].set_visible(False)
+                    ax.spines["bottom"].set_visible(False)
+                    ax.spines["right"].set_visible(False)
+                    ax.spines["left"].set_visible(False)
+                    plt.xticks(fontsize=15)
+                    plt.yticks(fontsize=15)
                     #plt.plot(data['weight'],data['rating'],'b-',label='historical ratings')
-                    plt.errorbar(data['weight'],data['rating'],yerr=data['conf'],linewidth=2,label='historical ratings')
-                    plt.plot(data['weight'],mod.predict(data),'r-',label='prediction',linewidth=2)
+                    plt.errorbar(data['weight'],data['rating'],yerr=data['conf'],
+                                 linewidth=2,label='historical ratings',ecolor=blue55,color=blue55)
+                    plt.plot(data['weight'],mod.predict(data),'-',label='prediction',linewidth=2,c=red55)
                     #plt.title('Average reward with 1/t decrease for '+genre+' w='+str(w),fontsize=15)
                     plt.legend(loc=3,fontsize=25)
                     #plt.savefig(path+'w'+str(w)+'/1_t_'+genre+' w='+str(w)+'.png')
                     plt.savefig(path+genre+'.pdf')
 
-out = out.reset_index()
-out = pd.pivot_table(out,values='R2',index=['w','genre'],columns='d').reset_index()
-out.to_csv(path+'R2.csv',index=False)
+#out = out.reset_index()
+#out = pd.pivot_table(out,values='R2',index=['w','genre'],columns='d').reset_index()
+#out.to_csv(path+'R2.csv',index=False)
 
